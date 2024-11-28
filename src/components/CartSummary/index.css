@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.checkout-button {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: Roboto;
+  width: 120px;
+  height: 40px;
+  background-color: #0b69ff;
+  border-width: 0px;
+}
+.order-total-value {
+  color: #171f46;
+  font-size: 35px;
+  font-family: Roboto;
+}
+.order-total-label {
+  color: #616e7c;
+  font-size: 35px;
+  font-family: Roboto;
+}
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.total-items{
+  color: #616e7c;
+  font-size: 25px;
+  font-family: Roboto;
+}
